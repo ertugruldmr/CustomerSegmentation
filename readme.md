@@ -16,7 +16,7 @@
   - [__Project__](#project)
   - [__Data__](#data)
   - [__Demo__](#demo) -> [Live Demo](https://ertugruldemir-customerclustering.hf.space)
-  - [__Study__](#problemgoal-and-solving-approach) -> [Colab]()
+  - [__Study__](#problemgoal-and-solving-approach) -> [Colab](https://colab.research.google.com/drive/1zioktyVsU7ZlZYq6lW-zzRqsz6gmHYC0)
   - [__Results__](#results)
 - (B) [__Detailed__](#Details)
   - [__Abstract__](#abstract)
@@ -49,14 +49,14 @@
         <a target="_blank" href="https://ertugruldemir-customerclustering.hf.space" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
       </td>
       <td>
-        <a target="_blank" href="
+        <a target="_blank" href="https://colab.research.google.com/drive/1jouRItwP5wSAKg-0-vpnkKTJ-RT4YbhL
 "><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
+        <a target="_blank" href="https://github.com/ertugruldmr/CustomerSegmentation/blob/main/study.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
       </td>
     <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/1zioktyVsU7ZlZYq6lW-zzRqsz6gmHYC0"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
       </td>
     </tr>
   </table>
